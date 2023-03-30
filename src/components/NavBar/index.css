@@ -1,0 +1,45 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #9796f0;
+  padding: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: flex-start;
+  align-items: center;
+  width: 800px;
+}
+
+.logo-container1 {
+  display: flex;
+  align-items: flex-start;
+  align-items: center;
+  width: 90%;
+}
+
+.score-container {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+
+.emoji-logo-size {
+  height: 45px;
+  width: 45px;
+}
+
+.emojiText {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: Roboto;
+  font-size: 25px;
+  padding-left: 5px;
+}
+
+.scoreText {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+}

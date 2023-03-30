@@ -1,0 +1,44 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.img-size {
+  height: 300px;
+  width: 300px;
+}
+
+.win-card {
+  border-style: solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.won-heading {
+  color: #ffffff;
+  font-size: 50px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.best-score {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.score-n {
+  color: #6a59ff;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.playAgain-button {
+  background-color: #ffce27;
+}

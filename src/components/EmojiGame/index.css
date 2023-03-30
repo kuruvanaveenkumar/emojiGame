@@ -1,0 +1,14 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+}
+
+.cardItem-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.bg-container1 {
+  display: none;
+}
